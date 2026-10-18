@@ -4,4 +4,5 @@ git commit
 git log
 git merge
 git clone
-
+git remote add origin
+git remoye set-remote
